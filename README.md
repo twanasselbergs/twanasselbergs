@@ -4,7 +4,7 @@ Een software development student uit Nederland. Momenteel studeer ik aan het Gra
 
 ## Skills/Tools
 - HTML, CSS/Tailwind CSS, JavaScript/TypeScript
-- React, Svelte, Vue
+- React, Svelte/SvelteKit, Vue
 - Node, Vite, MongoDB
 - WordPress (Headless), Strapi, REST API
 - GSAP, Framer Motion
