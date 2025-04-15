@@ -8,6 +8,7 @@ Een software development student uit Nederland. Momenteel studeer ik aan het Gra
 - Node, Vite, MongoDB
 - WordPress (Headless), Strapi, REST API
 - GSAP, Framer Motion
+- Figma, Shots
 
 ## Portfolio
 
