@@ -1,6 +1,6 @@
 # Hoi, ik ben Twan Asselbergs!
 
-Een software development student uit Nederland. Momenteel studeer ik aan het Grafisch Lyceum Utrecht en werk ik graag aan full-stack applicaties met gebruik van <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> React of Svelte.
+Een software development student uit Nederland. Momenteel studeer ik aan het Grafisch Lyceum Utrecht en werk ik graag aan full-stack applicaties met gebruik van <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="10" height="10"/> React of Svelte.
 
 ## Skills/Tools
 - HTML, CSS/Tailwind CSS, JavaScript/TypeScript
