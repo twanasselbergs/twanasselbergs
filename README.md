@@ -6,7 +6,7 @@ Een software development student uit Nederland. Momenteel studeer ik aan het Gra
 - HTML, CSS/Tailwind CSS, JavaScript/TypeScript
 - React, Svelte/SvelteKit, Vue
 - Node, Vite, MongoDB
-- WordPress (Headless), Strapi, REST API
+- WordPress (Headless), Strapi
 - GSAP, Framer Motion, Lenis
 - Figma, Shots
 
