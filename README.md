@@ -14,4 +14,4 @@ Een software development student uit Nederland. Momenteel studeer ik aan het Gra
 
 https://u230654.gluwebsite.nl/
 
-**Contact:** https://www.linkedin.com/in/twanasselbergs/ | twanasselbergs@outlook.com
+**Contact:** twanasselbergs@outlook.com | https://www.linkedin.com/in/twanasselbergs/ 
