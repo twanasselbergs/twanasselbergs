@@ -6,7 +6,7 @@ Een software development student uit Nederland. Momenteel studeer ik aan het Gra
 
 ## Portfolio
 
-https://twanasselbergs.com/
+https://twanasselbergs.com
 
 
 ## Skills & Tools
@@ -21,4 +21,4 @@ https://twanasselbergs.com/
 
 ## Contact: 
 
-twanasselbergs@outlook.com | https://www.linkedin.com/in/twanasselbergs/ 
+twanasselbergs@outlook.com | https://www.linkedin.com/in/twanasselbergs
