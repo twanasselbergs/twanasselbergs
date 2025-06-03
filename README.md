@@ -11,7 +11,7 @@ https://twanasselbergs.com
 
 ## Skills & Tools
 - HTML, CSS/Tailwind CSS, JavaScript/TypeScript
-- React, Svelte/SvelteKit, Vue
+- React/React Native, Svelte/SvelteKit, Vue
 - Vercel, Node, Vite
 - Prisma, MongoDB
 - WordPress (Headless), Strapi
