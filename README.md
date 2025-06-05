@@ -14,6 +14,7 @@ https://twanasselbergs.com
 - React/React Native, Svelte/SvelteKit, Vue
 - Vercel, Node, Vite
 - Prisma, MongoDB
+- MySQL, PostgreSQL
 - WordPress (Headless), Strapi
 - GSAP, Framer Motion, Lenis
 - Figma, Shots
