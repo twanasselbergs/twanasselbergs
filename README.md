@@ -20,6 +20,6 @@ https://twanasselbergs.com
 - Figma, Shots
 
 
-## Contact: 
+## Contact
 
 twanasselbergs@outlook.com | https://www.linkedin.com/in/twanasselbergs
